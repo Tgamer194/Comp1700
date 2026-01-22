@@ -1,0 +1,11 @@
+Bob:		19
+Joe:		21
+Steve:		6
+Bob:		4
+Jerry:		17
+Stewart:	13
+Billy-Bob:	12
+Frank:		15
+Bob:		14
+Jack:		6
+quit

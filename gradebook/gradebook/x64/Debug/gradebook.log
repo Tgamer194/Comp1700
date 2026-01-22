@@ -1,0 +1,6 @@
+﻿  gradebook.cpp
+C:\Users\micah\source\repos\gradebook\gradebook\gradebook.cpp(24,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\micah\source\repos\gradebook\gradebook\gradebook.cpp(25,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\micah\source\repos\gradebook\gradebook\gradebook.cpp(47,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\micah\source\repos\gradebook\gradebook\gradebook.cpp(76,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  gradebook.vcxproj -> C:\Users\micah\source\repos\gradebook\x64\Debug\gradebook.exe
