@@ -1,0 +1,3 @@
+﻿  calculatorlab.cpp
+C:\Users\micah\source\repos\calculatorlab\calculatorlab\calculatorlab.cpp(60,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  calculatorlab.vcxproj -> C:\Users\micah\source\repos\calculatorlab\x64\Debug\calculatorlab.exe
